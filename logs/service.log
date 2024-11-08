@@ -1,0 +1,338 @@
+INFO:root:Loaded seccessful from file: ./data/recommendations.parquet
+INFO:root:Loaded seccessful from file: ./data/similar_items.parquet
+INFO:root:Loaded seccessful from file: ./data/top_popular.parquet
+INFO:root:Class recsys_hendler init
+INFO:root:Loaded seccessful from file: ./data/events.parquet
+INFO:root:Loaded seccessful from file: ./data/items.parquet
+INFO:root:Class rec_ranks init
+INFO:root:Starting
+INFO:root:personal 
+INFO:root:weights calculated for 1067509
+INFO:root:calc  
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:weights calculated for 1374583
+INFO:root:calc  
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:weights calculated for 676103
+INFO:root:calc  
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:Stats for recommendations
+INFO:root:request_personal_count         12 
+INFO:root:request_poptop_count           12 
+INFO:root:request_simiitems_count        90 
+INFO:root:Stopping
+INFO:root:Loaded seccessful from file: ./data/recommendations.parquet
+INFO:root:Loaded seccessful from file: ./data/similar_items.parquet
+INFO:root:Loaded seccessful from file: ./data/top_popular.parquet
+INFO:root:Class recsys_hendler init
+INFO:root:Loaded seccessful from file: ./data/events.parquet
+INFO:root:Loaded seccessful from file: ./data/items.parquet
+INFO:root:Class rec_ranks init
+INFO:root:Starting
+INFO:root:personal 
+INFO:root:weights calculated for 778977
+INFO:root:calc  
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:weights calculated for 1374583
+INFO:root:calc  
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return chched weights 
+INFO:root:Loaded seccessful from file: ./data/recommendations.parquet
+INFO:root:Loaded seccessful from file: ./data/similar_items.parquet
+INFO:root:Loaded seccessful from file: ./data/top_popular.parquet
+INFO:root:Class recsys_heandler init
+INFO:root:Loaded successful from file: ./data/events.parquet
+INFO:root:Loaded successful from file: ./data/items.parquet
+INFO:root:Class rec_ranks init
+INFO:root:Starting
+INFO:root:personal 
+INFO:root:weights calculated for 193920
+INFO:root:calc weights
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:Stats for recommendations
+INFO:root:request_personal_count         2 
+INFO:root:request_poptop_count           0 
+INFO:root:request_simiitems_count        1 
+INFO:root:Stopping
+INFO:root:Loaded seccessful from file: ./data/recommendations.parquet
+INFO:root:Loaded seccessful from file: ./data/similar_items.parquet
+INFO:root:Loaded seccessful from file: ./data/top_popular.parquet
+INFO:root:Class recsys_heandler init
+INFO:root:Loaded successful from file: ./data/events.parquet
+INFO:root:Loaded successful from file: ./data/items.parquet
+INFO:root:Class rec_ranks init
+INFO:root:Starting
+INFO:root:Stats for recommendations
+INFO:root:request_personal_count         0 
+INFO:root:request_poptop_count           0 
+INFO:root:request_simiitems_count        0 
+INFO:root:Stopping
+INFO:root:Loaded seccessful from file: ./data/recommendations.parquet
+INFO:root:Loaded seccessful from file: ./data/similar_items.parquet
+INFO:root:Loaded seccessful from file: ./data/top_popular.parquet
+INFO:root:Class recsys_heandler init
+INFO:root:Loaded successful from file: ./data/events.parquet
+INFO:root:Loaded successful from file: ./data/items.parquet
+INFO:root:Class rec_ranks init
+INFO:root:Starting
+INFO:root:personal 
+INFO:root:weights calculated for 1131002
+INFO:root:calc weights
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:personal 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:weights calculated for 1374583
+INFO:root:calc weights
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
+INFO:root:top_popular
+INFO:root:toppop 
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:item2item
+INFO:root:return cached weights 
